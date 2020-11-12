@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .col-lg-4.col-sm-12.border.border-primary {
+    min-height: 45px;
+}
+.logo {
+  text-align: center;
+  padding-top: 6px;
+}
